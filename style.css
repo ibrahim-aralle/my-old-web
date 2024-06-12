@@ -23,35 +23,6 @@ section{
     background-position: center;
 }
 
-/* nav{
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    background-color: #00cd8e;
-    margin-top: 20px;
-    z-index: 1;
-}
-nav img{
-    width: 70px;
-}
-nav ul{
-    list-style: none;
-}
-nav ul li{
-    display: inline-block;
-}
-nav ul a{
-    color: #ffffff;
-    text-decoration: none;
-    padding: 0 20px;
-    transition: all 0.3s ease;
-    font-weight: 600;
-}
-nav ul a:hover{
-    color: #f9fafb;
-} */
-
 
 /* Navbar ---------------------------------------------------*/
 .navbar{
